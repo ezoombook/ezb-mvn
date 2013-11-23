@@ -49,12 +49,6 @@
     </dependencies>
     <repositories>
         <repository>
-            <id>Typesaferepository</id>
-            <name>Typesafe repository</name>
-            <url>http://repo.typesafe.com/typesafe/releases/</url>
-            <layout>default</layout>
-        </repository>
-        <repository>
             <id>jBCryptRepository</id>
             <name>jBCrypt Repository</name>
             <url>http://repo1.maven.org/maven2/org/</url>
