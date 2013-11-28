@@ -38,7 +38,7 @@
         </dependency>
         <dependency>
             <groupId>nl.siegmann.epublib</groupId>
-            <artifactId>epublib-core_2.10</artifactId>
+            <artifactId>epublib-core</artifactId>
             <version>3.1</version>
         </dependency>
         <dependency>
@@ -73,9 +73,9 @@
             <layout>default</layout>
         </repository>
         <repository>
-            <id>ePublibMavenRepository</id>
-            <name>ePublib Maven Repository</name>
-            <url>https://github.com/psiegman/mvn-repo/raw/master/releases/</url>
+            <id>eZoomBookrepoisitory</id>
+            <name>eZoomBook repoisitory</name>
+            <url>https://github.com/ezoombook/ezb-mvn/raw/master/</url>
             <layout>default</layout>
         </repository>
     </repositories>
