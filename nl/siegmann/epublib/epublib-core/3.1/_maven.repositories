@@ -1,7 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Nov 28 15:10:05 CET 2013
+#Thu Nov 28 15:20:58 CET 2013
 epublib-core-3.1-javadoc.jar>=
-epublib-core-3.1-complete.jar>=
 epublib-core-3.1.jar>=
+epublib-core-3.1-complete.jar>=
 epublib-core-3.1.pom>=
 epublib-core-3.1-sources.jar>=
