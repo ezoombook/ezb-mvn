@@ -28,11 +28,6 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>ezb-dal</groupId>
-            <artifactId>ezb-dal_2.10</artifactId>
-            <version>2.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
             <groupId>play</groupId>
             <artifactId>play-jdbc_2.10</artifactId>
             <version>2.1.2</version>
